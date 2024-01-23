@@ -2,7 +2,7 @@
 
 ### Tools I often use
 - [React](https://react.dev/)
-- [NextJS](https://react.dev/)
+- [NextJS](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Payload](https://payloadcms.com)
 - [Next-Intl](https://next-intl-docs.vercel.app/)

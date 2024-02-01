@@ -7,3 +7,4 @@
 - [Payload](https://payloadcms.com)
 - [Next-Intl](https://next-intl-docs.vercel.app/)
 - [Supabase](https://supabase.com/)
+- [GSAP](https://gsap.com/)
